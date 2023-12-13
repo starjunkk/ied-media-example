@@ -14,13 +14,13 @@
 	<div class="form-container">
         <form action="#" method="post">
             <div class="form-group row">
-                <label for="Date" class="col-10 col-form-label">Titolo*</label>
+                <label for="Title" class="col-10 col-form-label">Titolo</label>
                 <div class="col-10">
                     <input type="text" name="Title" id="Title" class="form-control" placeholder="Title" required>
                 </div>
             </div>
             <div class="form-group row">
-                <label for="Cognome" class="col-10 col-form-label">Date*</label>
+                <label for="Cognome" class="col-10 col-form-label">Date</label>
                 <div class="col-10">
                     <input type="text" name="Date" id="Date" class="form-control" placeholder="Date" required>
                 </div>
