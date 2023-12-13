@@ -31,6 +31,9 @@
                     <input type="text" name="Content" id="Content" class="form-control" placeholder="Content" required>
                 </div>
             </div>
+            <div class="form-group row">
+				<div class="col-5"><input type="submit" class="form-button" value="Conferma"></div>
+			</div>
         </form>
 </body>
 </html>
